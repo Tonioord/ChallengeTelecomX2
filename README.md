@@ -35,9 +35,3 @@ El modelo **Random Forest** demostró ser el algoritmo superior, logrando el mej
 * **El Blindaje del Contrato:** La antigüedad (`Antiguedad_Meses`) y poseer un contrato a largo plazo (`Tipo_Contrato_Two year`) son los mayores protectores contra la cancelación. Los contratos "Mes a mes" presentan alta volatilidad.
 * **El Problema de la Fibra Óptica:** El servicio de internet de fibra óptica (`Servicio_Internet_Fiber optic`) apareció como un fuerte predictor de abandono, sugiriendo una posible brecha entre el precio pagado y la calidad percibida del servicio o fallas técnicas recurrentes.
 * **Fricción en Pagos:** Los métodos de pago manuales, como el cheque electrónico (`Metodo_Pago_Electronic check`), incrementan drásticamente el churn pasivo en comparación con los pagos automatizados.
-
-## 🚀 Cómo Ejecutar el Proyecto
-
-1. Clona este repositorio:
-   ```bash
-   git clone [https://github.com/tu-usuario/nombre-del-repositorio.git](https://github.com/tu-usuario/nombre-del-repositorio.git)
